@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sant_pvt</string>
+    <string name="view_txt">View</string>
+    <string name="filter_txt">Filter</string>
+    <string name="update_txt">Update</string>
+    <string name="insert_txt">Insert</string>
+    <string name="settings_txt">Settings</string>
+    <string name="serialid_txt">Serial No</string>
+    <string name="district_txt">District</string>
+    <string name="location_txt">Location</string>
+    <string name="State_txt">State</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="info">Info</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="enter_the_serial_no">Enter the serial no</string>
+    <string name="enter_district">Enter district</string>
+    <string name="district">District</string>
+    <string name="enter_the_location">Enter the location</string>
+    <string name="enter_the_state">Enter the state</string>
+    <string name="serial_no">Serial No</string>
+    <string name="insert">INSERT</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+</resources>
