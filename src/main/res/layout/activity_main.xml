@@ -162,28 +162,6 @@
 
                 </androidx.cardview.widget.CardView>
 
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/extra_btn"
-                    android:layout_width="0dp"
-                    android:layout_height="150dp"
-                    android:layout_margin="8dp"
-                    android:layout_weight="1"
-                    android:clickable="true"
-                    android:focusable="true"
-                    android:foreground="?android:attr/selectableItemBackground"
-                    android:gravity="center">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:drawableTop="@android:drawable/ic_menu_edit"
-                        android:drawableTint="@color/cardview_shadow_end_color"
-                        android:text="@string/view_txt"
-                        android:textColor="@android:color/black"
-                        android:textSize="12sp" />
-
-                </androidx.cardview.widget.CardView>
 
             </TableRow>
 
